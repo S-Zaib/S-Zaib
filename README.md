@@ -44,6 +44,7 @@ I am a freelance programmer with a strong focus on app development, problem-solv
 - ASP.Net
 - GUI Design (Pygame, Tkinter, Java Swing, OpenGl C++)
 - SQL Databases
+- x86 Assembly
 
 I'm excited about collaborating on projects that involve app development, problem-solving, GUI design, and web automation. Let's connect and discuss how I can contribute to your organization's success!
 
