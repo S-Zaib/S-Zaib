@@ -1,8 +1,5 @@
 <!-- - 👋 Hi, I’m @S-Zaib
-- 👀 I’m interested in ... urmom, programming
-- 🌱 I’m currently learning ... computer science 
-- 💞️ I’m looking to collaborate on ... urmom
-- 📫 How to reach me ... urmomsbedroom
+
  -->
  
  # Shahzaib Irfan - Experienced Programmer | App Development | Problem Solver | GUI Design | Web Automation
