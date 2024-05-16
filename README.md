@@ -7,9 +7,8 @@
 Welcome to my GitHub profile! I'm Shahzaib Irfan, an experienced freelance programmer skilled in Python, Java, and C++. I specialize in app development, problem-solving, GUI design, and web automation. With a proven track record of delivering high-quality projects for clients on Fiverr, I bring a wealth of expertise to the table. I am adaptable, creative, and dedicated to continuous learning to stay updated with industry trends.
 
 ## Contact Information
-
-- Phone: +92 324 1071729
-- Address: E11/4 Street 1, Islamabad, Pakistan
+- Email: shahzaibirfan2004@gmail.com
+- Address: Islamabad, Pakistan
 - Web: [LinkedIn](https://www.linkedin.com/your-linkedin-profile)
 
 ## Profile
