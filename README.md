@@ -1,53 +1,33 @@
-<!-- - 👋 Hi, I’m @S-Zaib
+# 👋 Hi, I'm Shahzaib Irfan — Experienced Programmer | App Developer | Problem Solver
 
- -->
- 
- # Shahzaib Irfan - Experienced Programmer | App Development | Problem Solver | GUI Design | Web Automation
+I'm a versatile freelance programmer skilled in Python, Java, and C++. I specialize in app development, GUI design, and web automation, delivering high-quality projects on Fiverr. Passionate about solving problems and continuously learning new technologies.
 
-Welcome to my GitHub profile! I'm Shahzaib Irfan, an experienced freelance programmer skilled in Python, Java, and C++. I specialize in app development, problem-solving, GUI design, and web automation. With a proven track record of delivering high-quality projects for clients on Fiverr, I bring a wealth of expertise to the table. I am adaptable, creative, and dedicated to continuous learning to stay updated with industry trends.
+---
 
-## Contact Information
-- Email: shahzaibirfan2004@gmail.com
-- Address: Islamabad, Pakistan
-- Web: [LinkedIn](https://www.linkedin.com/your-linkedin-profile)
+### Education  
+- **BS Computer Science** — FAST, Islamabad (2021 - Present)  
+- **Higher Secondary School Certificate** — Pakistan International College, Jubail KSA (2018 - 2020)
 
-## Profile
+### Experience  
+**Freelance Programmer — Fiverr (2022 - Present)**  
+- Delivered numerous projects exceeding client expectations.  
+- Developed GUI apps using Pygame, Tkinter, Java Swing, OpenGL (C++).  
+- Built ASP.Net university portal with multiple user interfaces.  
+- Created Python games including Trivia (2-player) and Brick Breaker.  
+- Developed an interactive Rubik's Cube solver with auto-solve feature.
 
-I am a freelance programmer with a strong focus on app development, problem-solving, GUI design, and web automation. Leveraging my skills in Python, Java, and C++, I have consistently delivered exceptional results for clients on Fiverr. My ability to understand client requirements and translate them into innovative solutions has earned me positive feedback and repeat business.
+### Skills  
+- **Languages:** Python, Java, C++, C#, JavaScript, x86 Assembly  
+- **Frameworks:** ASP.Net, Pygame, Tkinter, Java Swing, OpenGL  
+- **Databases:** SQL  
+- **Other:** GUI Design, Web Automation, Problem Solving
 
-## Education
+---
 
-- **BS(CS)** - National University of Computer and Emerging Sciences (FAST) Islamabad Campus, 2021 - Present
-- **HIGHER SECONDARY SCHOOL CERTIFICATE** - Pakistan International College Jubail KSA, 2018 - 2020
+## Let’s Connect!  
+I’m excited to collaborate on app development, GUI design, and automation projects. Explore my repos and reach out via email or LinkedIn.
 
-## Experience
+---
 
-- **Freelance Programmer** - Fiverr, 2022 - Present
-  - Successfully completed numerous projects on Fiverr, exceeding client expectations.
-  - Developed GUI applications using Pygame, Tkinter, Java Swing, and OpenGl C++.
-  - Created an ASP.Net application with web interfaces for students, admin, and faculty to access the university database and interact with it through different interfaces.
-  - Designed and implemented a dynamic trivia 2 player game in Python that reads questions from a file, displays them, and checks the answers.
-  - Developed a Python brick breaker game using Pygame, featuring sound and graphics.
-  - Created a program that displays an interactable Rubik's Cube and provides step-by-step solutions to solve it, including an auto-solve button.
-
-## Skills
-
-- Python
-- Java
-- C++
-- JavaScript
-- C#
-- ASP.Net
-- GUI Design (Pygame, Tkinter, Java Swing, OpenGl C++)
-- SQL Databases
-- x86 Assembly
-
-I'm excited about collaborating on projects that involve app development, problem-solving, GUI design, and web automation. Let's connect and discuss how I can contribute to your organization's success!
-
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and reach out to me for any inquiries or collaborations.
-
- 
-<!---
-S-Zaib/S-Zaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Email:** shahzaibirfan2004@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/shahzaibirfan2004/  
